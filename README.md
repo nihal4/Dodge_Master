@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/60ed4b50-8815-4eb6-aa1f-5b2e8fba2f3a" width="300">
 
 
-# Dodge Battle
+# Dodge Master
 
 Dodge Battle is a retro-style arcade game where players control BoxBob, a student so bored that he put himself inside a box to escape studying! Now, he must dodge incoming alphabets flying from his Slide and Notes. Test your reflexes and keep BoxBob safe for as long as possible!
 
@@ -33,13 +33,12 @@ Dodge Battle is a retro-style arcade game where players control BoxBob, a studen
 
 ## Installation
 
-- Download the APK file from latest [release](https://github.com/nihal4/Dodge_Master/releases/tag/app)
+- Download the APK file from latest [release](https://github.com/nihal4/Dodge_Master/releases/tag/Dodge_Master_v1.0.2)
 
 - Install it on your device.
 
 - Open the app and start playing!
 
-![Dart-logo]()
 
 
 ## Technologies Used
