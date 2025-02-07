@@ -14,7 +14,8 @@ Dodge Battle is a retro-style arcade game where players control BoxBob, a studen
 
 ## Platform
 - Android
-- IOS (soon)
+- [Web app](https://dodge-master.netlify.app/)
+- IOS (Go to Web App and Download it)
 
 
 ## Screenshots
